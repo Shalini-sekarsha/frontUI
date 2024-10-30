@@ -1,0 +1,2 @@
+#base module
+REACT_APP_BASE_URL = http://localhost:8090/
